@@ -1,5 +1,13 @@
-
-  
+<div align="center">
+   <img
+      alt="paulocsa-top-langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocsa&show_icons=true&theme=github_dark&layout=compact&langs_count=10"
+      height="150em">
+   <img
+      alt="paulocsa-status"
+      src="https://github-readme-stats.vercel.app/api?username=paulocsa&show_icons=true&theme=github_dark&count_private=true&include_all_commits"
+      height="150em">
+</div>
 
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulocsa&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulocsa&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
