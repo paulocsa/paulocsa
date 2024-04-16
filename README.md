@@ -9,38 +9,19 @@
       height="150em">
 </div>
 
+<div align="center">
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulocsa&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulocsa&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulocsa&theme=dracula" />
+   </a>
+</div>
 
+<div align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,javascript,css,html,react,nodejs,express,github,bootstrap,php,mysql,java,c,cs,cpp,laravel,latex,npm,arduino,jquery" />
+   </a>
+</div>
 
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,javascript,css,html,react,nodejs,express,github,bootstrap,php,mysql,java,c,cs,cpp,laravel,latex,npm,arduino,jquery" />
-</a>
-  <br />
-
-  </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=paulocsa&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
- 
-
-
-
-
-
-
- 
-  
-  
-
-  
-
-
-
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=paulocsa&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
