@@ -2,11 +2,11 @@
    <img
       alt="paulocsa-top-langs"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocsa&show_icons=true&theme=github_dark&layout=compact&langs_count=10"
-      height="150em">
+      height="182em">
    <img
       alt="paulocsa-status"
       src="https://github-readme-stats.vercel.app/api?username=paulocsa&show_icons=true&theme=github_dark&count_private=true&include_all_commits"
-      height="150em">
+      height="182em">
 </div>
 <br>
 
